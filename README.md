@@ -8,6 +8,52 @@ If you're searching for a **project for BCCA**, **MCA final year project**, or a
 
 ---
 
+<table border="1" style="border-collapse: collapse; width: 100%;">
+    <thead>
+        <tr>
+            <th style="padding: 10px;">S.No</th>
+            <th style="padding: 10px;">Project Name</th>
+            <th style="padding: 10px;">Major</th>
+            <th style="padding: 10px;">Minor</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding: 10px;">1</td>
+            <td style="padding: 10px;">
+                <a href="https://api.whatsapp.com/send?phone=919860303985&text=hello%20bitlearners%0A%20i%20want%20to%20know%20more%20information%20about%20this%20project%20and%20Shopping%20Portal%20Using%20PHP%20and%20MySQL" target="_blank">
+                    Shopping Portal Using PHP and MySQL
+                </a>
+            </td>
+            <td style="padding: 10px; text-align: center;">✔️</td>
+            <td style="padding: 10px; text-align: center;">✔️</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px;">2</td>
+            <td style="padding: 10px;">
+                <a href="https://api.whatsapp.com/send?phone=919860303985&text=hello%20bitlearners%0A%20i%20want%20to%20know%20more%20information%20about%20this%20project%20and%20Car%20Rental%20Project%20in%20PHP%20and%20MySQL" target="_blank">
+                    Car Rental Project in PHP and MySQL
+                </a>
+            </td>
+            <td style="padding: 10px; text-align: center;">✔️</td>
+            <td style="padding: 10px; text-align: center;">❌</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px;">3</td>
+            <td style="padding: 10px;">
+                <a href="https://api.whatsapp.com/send?phone=919860303985&text=hello%20bitlearners%0A%20i%20want%20to%20know%20more%20information%20about%20this%20project%20and%20News%20Portal%20Project%20in%20PHP%20and%20MySQL" target="_blank">
+                    News Portal Project in PHP and MySQL
+                </a>
+            </td>
+            <td style="padding: 10px; text-align: center;">❌</td>
+            <td style="padding: 10px; text-align: center;">✔️</td>
+        </tr>
+        <!-- Add more rows as needed -->
+    </tbody>
+</table>
+
+
+
 ## Why Choose Bit Learners?
 
 - **Comprehensive Project **: Projects suitable for students in **BCA**, **MCA**, **BCCA**, **BSc IT**, **Engineering**, **12th Science**, and many more.
